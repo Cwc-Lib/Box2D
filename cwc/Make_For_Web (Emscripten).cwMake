@@ -1,6 +1,6 @@
 ;Register Cwc before using a .cwmake
 >
--{_sOpt}="Debug"
+-{_sOpt}="OS"
 >
 -{_sDynamic}="so"
 >
